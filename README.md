@@ -1,6 +1,6 @@
 # hdx-data-freshness-dbutil
 
-Utility to perform actions on the data freshness database. Currently the only actions is to duplicate it with the option of only copying only specifics runs which is useful for testing.
+Utility to perform actions on any data freshness database. Currently the only actions is to duplicate it with the option of only copying only specifics runs which is useful for testing.
 
 It is run using: `python run.py ARGS` where possible ARGS are below:
 
